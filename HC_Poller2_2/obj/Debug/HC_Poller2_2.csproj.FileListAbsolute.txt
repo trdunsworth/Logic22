@@ -1,0 +1,8 @@
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\bin\Debug\HC_Poller2_2.exe.config
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\bin\Debug\HC_Poller2_2.exe
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\bin\Debug\HC_Poller2_2.pdb
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\bin\Debug\HC_Poller2_2.exe.CodeAnalysisLog.xml
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\bin\Debug\HC_Poller2_2.exe.lastcodeanalysissucceeded
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\obj\Debug\HC_Poller2_2.csprojResolveAssemblyReference.cache
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\obj\Debug\HC_Poller2_2.exe
+c:\users\jcsoadmin\documents\visual studio 2012\Projects\HC_Poller2_2\HC_Poller2_2\obj\Debug\HC_Poller2_2.pdb
